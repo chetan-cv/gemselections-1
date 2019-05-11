@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">980508632732-jcrhup9fi0df4099uprodrglv3icova7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gemselections-add52.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">980508632732</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmWYEKmjkfRxnSdxVu-Q4UEipSqWuc3Co</string>
+    <string name="google_app_id" translatable="false">1:980508632732:android:a9f24a6936c735a0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmWYEKmjkfRxnSdxVu-Q4UEipSqWuc3Co</string>
+    <string name="google_storage_bucket" translatable="false">gemselections-add52.appspot.com</string>
+    <string name="project_id" translatable="false">gemselections-add52</string>
+</resources>
