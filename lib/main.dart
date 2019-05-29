@@ -78,12 +78,12 @@ class _MyAppState extends State<MyApp> {
     GoogleSignInAccount googleSignInAccount = await googleSignIn.signIn();
     GoogleSignInAuthentication googleSignInAuthentication =
         await googleSignInAccount.authentication;
-    FirebaseUser firebaseUser = await FirebaseAuth.instance.signInWithGoogle(
+   /*FirebaseUser firebaseUser = await FirebaseAuth.instance.signInWithGoogle(
         idToken: googleSignInAuthentication.idToken,
-        accessToken: googleSignInAuthentication.accessToken);
+        accessToken: googleSignInAuthentication.accessToken);*/
 
-    print("Signed In as ${firebaseUser.displayName}");
-    return firebaseUser;
+//    print("Signed In as ${firebaseUser.displayName}");
+  //  return firebaseUser;
   }
 
   Future signOut() async {

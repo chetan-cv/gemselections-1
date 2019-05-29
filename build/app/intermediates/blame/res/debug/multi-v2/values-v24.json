@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sarthaksadh/Desktop/iosd/gemselections/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/chetan/Desktop/gemselections/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/sarthaksadh/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/03e2138abfb06c456c25cff2d3c7853e/res/values-v24/values-v24.xml",
+                    "source": "/home/chetan/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c9cebca3b4fc605c6e2bf3bcc0adb264/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sarthaksadh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/a0c5c4c0c1db5668c143308210b6c41b/res/values-v24/values-v24.xml",
+                    "source": "/home/chetan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c0333ca06e3cbb58cdd68c4f40d1153f/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

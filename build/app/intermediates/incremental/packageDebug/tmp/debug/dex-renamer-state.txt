@@ -1,10 +1,10 @@
-#Sat May 11 17:31:52 IST 2019
+#Tue May 28 23:42:04 IST 2019
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=/Users/sarthaksadh/Desktop/iosd/gemselections/build/app/intermediates/transforms/dexMerger/debug/0
-base.1=/Users/sarthaksadh/Desktop/iosd/gemselections/build/app/intermediates/transforms/dexMerger/debug/0
-base.0=/Users/sarthaksadh/Desktop/iosd/gemselections/build/app/intermediates/transforms/dexMerger/debug/0
+base.2=/home/chetan/Desktop/gemselections/build/app/intermediates/transforms/dexMerger/debug/0
+base.1=/home/chetan/Desktop/gemselections/build/app/intermediates/transforms/dexMerger/debug/0
+base.0=/home/chetan/Desktop/gemselections/build/app/intermediates/transforms/dexMerger/debug/0

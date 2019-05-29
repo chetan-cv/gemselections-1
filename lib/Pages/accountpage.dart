@@ -233,13 +233,13 @@ Future<FirebaseUser> signInGoogle() async {
   GoogleSignInAuthentication googleSignInAuthentication =
       await googleSignInAccount.authentication;
 
-  FirebaseUser firebaseUser = await FirebaseAuth.instance.signInWithGoogle(
-      idToken: googleSignInAuthentication.idToken,
-      accessToken: googleSignInAuthentication.accessToken);
-  print("Signed in as ${firebaseUser.displayName} uid ${firebaseUser.uid}");
+ // FirebaseUser firebaseUser = await FirebaseAuth.instance.signInWithGoogle(
+   //   idToken: googleSignInAuthentication.idToken,
+     // accessToken: googleSignInAuthentication.accessToken);
+  //print("Signed in as ${firebaseUser.displayName} uid ${firebaseUser.uid}");
   print("Saving File");
 
-  saveUser(firebaseUser.uid);
+  //saveUser(firebaseUser.uid);
 
   print("User Saved");
 
@@ -247,7 +247,7 @@ Future<FirebaseUser> signInGoogle() async {
 
   print("Data: $data");
 
-  return firebaseUser;
+  //return firebaseUser;
 }
 
 Future<FirebaseUser> signInFacebook() async {
